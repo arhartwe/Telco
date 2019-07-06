@@ -1,2 +1,2 @@
-# Telco-Mockup
+# Telco
 Telco Brewery Website
